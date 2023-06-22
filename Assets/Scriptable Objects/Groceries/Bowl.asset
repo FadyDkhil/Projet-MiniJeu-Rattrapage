@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c2bf553576d54a55956aa3b7feed341, type: 3}
+  m_Name: Bowl
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 9052188078704031704, guid: bd3d984866e0c47469a68e81a0fb66a5, type: 3}
+  groceryName: Bowl
